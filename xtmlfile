@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ORDERDINESTORE</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 20px;
+      letter-spacing: 2px;
+    }
+    p {
+      font-size: 1.2em;
+      margin-bottom: 30px;
+    }
+    a.button {
+      display: inline-block;
+      padding: 15px 30px;
+      background: #fff;
+      color: #000;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+      transition: background 0.3s ease, color 0.3s ease;
+    }
+    a.button:hover {
+      background: #444;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <h1>ORDERDINESTORE</h1>
+  <p>Welcome to ORDERDINESTORE — Your top-up and gaming credits store.</p>
+  <a class="button" href="https://wa.me/917005016832" target="_blank">Chat on WhatsApp</a>
+</body>
+</
